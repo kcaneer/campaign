@@ -1,10 +1,8 @@
-.jumbotron-with-bg-image{
-    background-image: url('img/cover.png');
-    background-size: 25% 100%;
-    background-repeat: no-repeat;
-    background-position: right top;
-   }
 
 body {
     padding-top: 65px;
 }
+
+.carousel-inner {
+    margin-bottom:50px;
+ }
