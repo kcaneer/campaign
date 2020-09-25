@@ -6,3 +6,7 @@ body {
 .carousel-inner {
     margin-bottom:50px;
  }
+
+ .alert {
+     padding-top: 65px;
+ }
